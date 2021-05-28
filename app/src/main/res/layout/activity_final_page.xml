@@ -11,9 +11,9 @@
         android:layout_height="match_parent"
         android:layout_gravity="center"
         android:gravity="center"
-        android:text="Good By"
+        android:text="congratulation"
         android:textColor="#00BCD4"
-        android:textSize="70sp"
+        android:textSize="50sp"
 
         tools:layout_editor_absoluteY="40dp" />
 
