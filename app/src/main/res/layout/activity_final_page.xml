@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:layout_gravity="center"
         android:gravity="center"
-        android:text="congratulation"
+        android:text="Congratulation"
         android:textColor="#00BCD4"
         android:textSize="50sp"
 
