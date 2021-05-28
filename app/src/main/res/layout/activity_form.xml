@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginTop="10dp"
+    android:layout_marginTop="-10dp"
     android:orientation="vertical"
     tools:context=".Form">
 
@@ -42,7 +42,9 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
+        android:inputType="textPassword"
         android:hint="Password"
+
         android:paddingTop="30dp" />
 
     <Button
